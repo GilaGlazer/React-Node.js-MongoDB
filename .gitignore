@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Build output
+dist/
+build/
+
+# React
+*.log
+.cache/
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# MongoDB dump (במקרה ששמרת קבצי גיבוי)
+dump/
+
+# misc
+*.tgz
+
+# כלליים
+*.log
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+
+# npm
+**/node_modules/
+**/npm-debug.log*
+
+# React - client
+/client/build/
+/client/.env*
+/client/.cache
+
+# Node.js - server
+/server/dist/
+/server/.env*
+
+# MongoDB dumps
+/server/dump/
