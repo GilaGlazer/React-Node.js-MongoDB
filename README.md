@@ -142,22 +142,5 @@ This project focuses on core functionality and basic integration:
 - ✅ Database connectivity and CRUD operations
 - ✅ Frontend-backend integration
 - ✅ Basic user interface implementation
-- 🔄 Future enhancements: Authentication, advanced validation, security features
-
-## 🤝 Contributing
-
-This system is designed with scalability in mind. Future enhancements may include:
-- User authentication and authorization
-- Advanced search and filtering
-- Event categories and tags
-- Image upload capabilities
-- Email notifications
-- Event booking system
-
-## 📞 Support
-
-For questions or support regarding this Event Management System, please refer to the project documentation or contact the development team.
-
----
 
 **Built with ❤️ using React, Node.js, TypeScript, and MongoDB**
